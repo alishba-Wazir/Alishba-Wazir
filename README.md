@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Alishba Wazir
 
-<!--
-**alishba-Wazir/Alishba-Wazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring AI Researcher | NLP & Multimodal Learning**
 
-Here are some ideas to get you started:
+🎓 **7th Semester Student – Computer Science**  
+🏫 **University of Poonch Rawalakot**  
+🤖 AI Student interested in **Machine Learning, NLP, and Deep Learning**  
+📊 Working on **Text Classification & Multimodal Models**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🔬 Current Work
+- Hate Speech & Polarization Detection (Urdu)
+- BERT & Multilabel Text Classification
+- Multimodal Meme Analysis (Text + Image)
+
+---
+
+### 🛠 Skills
+- Python
+- PyTorch
+- Hugging Face Transformers (BERT, RoBERTa)
+- NLP, Fine-tuning, Model Evaluation (F1, Precision, Recall)
+
+---
+
+### 📂 Projects
+- Urdu Polarization Detection (CODA Task)
+- Multilabel Hate Speech Classification
+- Vaccine Meme Classification (Text + Image)
+
+---
+
+📫 **Contact**
+- GitHub: https://github.com/your-username
+
